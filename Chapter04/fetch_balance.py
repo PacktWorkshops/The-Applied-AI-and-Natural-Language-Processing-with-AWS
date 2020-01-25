@@ -19,4 +19,17 @@ def lambda_handler(event, context):
     # extract account balance from the objet in the bucket
     account_balance =  (float(file_obj['Body'].read()))
 
-    return 'Your balance is ' + str(account_balance)
+    return close('Your balance is ' + str(account_balance))
+
+def close(message):
+    return {
+        'sessionAttributes': {},
+        'dialogAction': {
+            'type': 'Close',
+            'fulfillmentState': 'Fulfilled',
+            'message': {
+                'contentType': 'PlainText',
+                'content': message
+            }
+        }
+    }

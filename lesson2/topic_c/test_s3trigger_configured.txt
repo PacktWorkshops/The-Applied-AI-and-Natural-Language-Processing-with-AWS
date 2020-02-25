@@ -1,1 +1,0 @@
- I am a test file to verify the s3 trigger was successfully configured!

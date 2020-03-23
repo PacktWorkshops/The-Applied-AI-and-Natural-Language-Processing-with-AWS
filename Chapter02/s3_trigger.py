@@ -1,4 +1,5 @@
 import boto3
+import json
 
 def lambda_handler(event, context):
     # create a s3 object
@@ -42,5 +43,5 @@ def lambda_handler(event, context):
       
         return return {
             'statusCode' :200,
-            'body' : jason.dumps('Hello from Lambda')
+            'body' : json.dumps('Hello from Lambda')
         }

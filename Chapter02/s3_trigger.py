@@ -41,7 +41,7 @@ def lambda_handler(event, context):
         key_phases_response = comprehend.detect_key_phrases(Text = body_str_obj, LanguageCode = "en") 
         print("\n\nkey_phases_response: \n", key_phases_response)
       
-        return return {
+        return {
             'statusCode' :200,
             'body' : json.dumps('Hello from Lambda')
         }

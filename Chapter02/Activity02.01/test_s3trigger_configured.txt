@@ -1,0 +1,1 @@
+ I am a test file to verify the s3 trigger was successfully configured on 1/20/2020 at 1:34 PM and tried 3 times !

@@ -8,4 +8,4 @@ dependencies:
     - jsoncsv==2.0.9
     - pandas==1.0.3
     - urllib3==1.25.8
-  - glob
+  - glob2

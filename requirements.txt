@@ -1,5 +1,5 @@
 boto3===1.12.29
-json===2.0.9
+simplejson===2.0.9
 pandas===1.0.3
 urllib===3.1.24.1
 glob===2.0.6

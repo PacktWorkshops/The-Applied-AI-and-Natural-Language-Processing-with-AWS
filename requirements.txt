@@ -1,5 +1,5 @@
 boto3==1.12.29
 jsoncsv==2.0.9
 pandas==1.0.3
-urllib
+urllib==1.25.9
 glob==2.0.6

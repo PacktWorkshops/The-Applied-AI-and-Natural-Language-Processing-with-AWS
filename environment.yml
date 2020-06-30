@@ -1,0 +1,11 @@
+name: applied-ai-and-nlp-workshop
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - pip:
+    - boto3==1.12.29
+    - jsoncsv==2.0.9
+    - pandas==1.0.3
+    - urllib3==1.25.8
+  - glob

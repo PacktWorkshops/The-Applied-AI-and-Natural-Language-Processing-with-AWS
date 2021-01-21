@@ -14,8 +14,8 @@ To get started with the project files, you'll need to:
 1. Create an [AWS account](https://aws.amazon.com/free/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
-## About The Applied AI and Natural Language Processing with AWS Workshop
-[The Applied AI and Natural Language Processing with AWS Workshop](https://www.amazon.com/Applied-Natural-Language-Processing-Workshop-ebook/dp/B08Q8GNTGT/ref=sr_1_1?dchild=1&keywords=The%20Applied%20AI%20and%20Natural%20Language%20Processing%20Workshop&qid=1610976605&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781801071307&utm_term=Applied%20AI%20and%20Natural%20Language%20Processing&utm_content=The%20Applied%20AI%20and%20Natural%20Language%20Processing%20Workshop) will show you how to integrate artificial intelligence with Amazon Web Services to create intelligent applications. From developing language translation apps and chatbots to creating models for processing large volumes of images, you’ll learn key concepts effectively and in a real-world context.	
+## About The Applied AI and Natural Language Processing Workshop
+[The Applied AI and Natural Language Processing Workshop](https://www.amazon.com/Applied-Natural-Language-Processing-Workshop-ebook/dp/B08Q8GNTGT/ref=sr_1_1?dchild=1&keywords=The%20Applied%20AI%20and%20Natural%20Language%20Processing%20Workshop&qid=1610976605&sr=8-1&utm_source=github&utm_medium=repository&utm_campaign=9781801071307&utm_term=Applied%20AI%20and%20Natural%20Language%20Processing&utm_content=The%20Applied%20AI%20and%20Natural%20Language%20Processing%20Workshop) will show you how to integrate artificial intelligence with Amazon Web Services to create intelligent applications. From developing language translation apps and chatbots to creating models for processing large volumes of images, you’ll learn key concepts effectively and in a real-world context.	
 
 ## What you will learn
 * Grasp the fundamentals of AI, ML, and AWS

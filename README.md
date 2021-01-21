@@ -1,7 +1,7 @@
 # The Applied AI and Natural Language Processing with AWS Workshop
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS.svg)](https://github.com/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS.svg)](https://github.com/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS/network)
-[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS.svg)](https://github.com/PacktWorkshops/TThe-Applied-AI-and-Natural-Language-Processing-with-AWS/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS.svg)](https://github.com/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
 

@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # The Applied AI and Natural Language Processing Workshop
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS.svg)](https://github.com/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS.svg)](https://github.com/PacktWorkshops/The-Applied-AI-and-Natural-Language-Processing-with-AWS/network)
